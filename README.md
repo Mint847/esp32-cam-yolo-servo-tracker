@@ -1,10 +1,3 @@
-name: esp32-cam-yolo-servo-tracker
-description: >
-  Full setup, wiring, debugging, and operational guide for the ESP32-CAM + ESP32-S3 + PCA9685
-  YOLO object tracking servo system. Covers all hardware gotchas, software fixes, and
-  Arduino/Python integration issues discovered during development.
----
-
 # ESP32-CAM YOLO Servo Tracker — Complete Setup & Debug Guide
 
 This skill documents every issue encountered and resolved when building a real-time
