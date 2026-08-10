@@ -40,7 +40,7 @@ YOLO object tracking system with an ESP32-CAM, ESP32-S3, PCA9685 servo driver, a
 | Servo driver | PCA9685 16-channel PWM driver |
 | Pan servo | PCA9685 channel 0 |
 | Tilt servo | PCA9685 channel 1 |
-| Power | External 5V supply to PCA9685 V+ terminal |
+| Power | External 5V supply to PCA9685 V+ terminal and esp32 camera |
 
 ---
 
