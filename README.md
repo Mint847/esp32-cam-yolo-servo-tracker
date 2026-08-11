@@ -4,6 +4,15 @@ This skill documents every issue encountered and resolved when building a real-t
 YOLO object tracking system with an ESP32-CAM, ESP32-S3, PCA9685 servo driver, and Python.
 
 ---
+<img width="1280" height="1280" alt="WhatsApp Image 2026-08-11 at 14 25 18" src="https://github.com/user-attachments/assets/c2a3e766-2674-40a4-a2f2-8c01bf32a029" />
+
+
+https://github.com/user-attachments/assets/7eef5af5-91a1-46c8-bfc2-677a8be8dd37
+
+
+
+
+
 
 ## System Architecture
 
